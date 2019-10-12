@@ -16,7 +16,8 @@
     "minimum-stability": "dev",
     "autoload" : {
       "psr-4":{
-        "Cmtools\\":"src/"
+        "Cmtools\\":"src/",
+        "Cmtools1\\":"tt/"
       }
     }
 }
