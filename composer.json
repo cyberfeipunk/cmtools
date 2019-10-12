@@ -1,0 +1,21 @@
+{
+    "name": "dingfei/cmtools",
+    "description": "composer工具库",
+    "type": "1",
+    "require": {
+        "php": ">7.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dingfei",
+            "email": "457286213@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload" : {
+      "psr-4":{
+        "Cmtools\\":"src/"
+      }
+    }
+}
